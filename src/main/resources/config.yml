@@ -1,0 +1,16 @@
+gives:
+  test:
+    msg: "Annuncio > ci sarà un give di %ndiamonds% %diamonds% tra %time%"
+    msg_minutes: 0
+    msg_seconds: 20
+
+    give_minutes: 0
+    give_seconds: 30
+
+    diamonds:
+      key: "diamond"
+      amount: 10
+    iron:
+        key: "iron_ingot"
+        amount: 10
+
